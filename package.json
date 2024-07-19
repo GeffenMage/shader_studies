@@ -1,0 +1,17 @@
+{
+  "name": "shader_studies",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.166.0",
+    "stats.js": "^0.17.0",
+    "three": "^0.166.1",
+    "vite": "^5.3.4"
+  }
+}
